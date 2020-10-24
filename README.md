@@ -13,7 +13,7 @@
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.google.com%2Fgmail%2Fabout%2Fstatic%2Fimages%2Flogo-gmail.png%3Fcache%3D1adba63&imgrefurl=https%3A%2F%2Fwww.google.com%2Fgmail%2Fabout%2F&tbnid=ab3UE-B4aCw0-M&vet=12ahUKEwjAwqCC-8zsAhWsObcAHVHmBhEQMygCegUIARDWAQ..i&docid=mcW-4V-4uf3AYM&w=384&h=384&q=gmail&ved=2ahUKEwjAwqCC-8zsAhWsObcAHVHmBhEQMygCegUIARDWAQ" />][gmail]
+[pushkarishwar@gmail.com][https://mail.google.com/]
 
 <br />
 
@@ -58,4 +58,4 @@
 
 
 [linkedin]: https://www.linkedin.com/in/pushkar-kumar2312/
-[gmail] : pushkarishwar@gmail.com
+

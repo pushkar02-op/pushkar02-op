@@ -32,36 +32,25 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploy Wordpress+Mysql on AWS and Create a NAT Gateway and Bastion host for management.](https://www.linkedin.com/posts/pushkar-kumar2312_aws-wordpress-cloud-activity-6724415129028485120-Vb-M)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
-- [Deno 1.0 Released! (Easy) REST API Example](https://dev.to/codestackr/deno-1-0-released-easy-rest-api-example-2fbl)
+- [Deploy Wordpress+Mysql on AWS and Create a NAT Gateway and Bastion host for management.](https://www.linkedin.com/pulse/deploy-wordpressmysql-aws-create-nat-gateway-bastion-host-kumar/?trackingId=Om8s6Npa1yMKwfEu%2BNfwHA%3D%3D)
+- [Hybrid Multi Cloud Setup-WordPress deployed on Kubernetes Cluster and used RDS service of AWS for data Storage](https://www.linkedin.com/pulse/hybrid-multi-cloud-setup-wordpress-deployed-kubernetes-pushkar-kumar/?trackingId=elmO0xv%2BmQijwAUmcS5emQ%3D%3D)
+- [Deploy Wordpress+MySql on AWS in our own VPC](https://www.linkedin.com/pulse/deploy-wordpressmysql-aws-our-own-vpctask-3-pushkar-kumar/?trackingId=kXBNQHk8m6fCq%2BSTbb0oXQ%3D%3D)
+- [Deploy Web Server on AWS through ANSIBLE and Retrieve the IP using dynamic inventory concept.](https://www.linkedin.com/pulse/deploy-web-server-aws-through-ansible-retrieve-ip-using-pushkar-kumar/?trackingId=jk9mjVtzzAUAB0KOhxns5Q%3D%3D)
+- [Ansible- Playbook to configure web Apache Server on Docker.](https://www.linkedin.com/pulse/ansible-playbook-configure-web-apache-server-pushkar-kumar/?trackingId=Xba7r5Vgt5eIolqdxkVXtQ%3D%3D)
+- [Infrastructure as a Code(IAAC) using AWS Services and TERRAFORM + GITHUB.](https://www.linkedin.com/pulse/task-2-infrastructure-codeiaac-using-aws-services-terraform-kumar/?trackingId=DcbsUOC5J3YNNPMutfM4bg%3D%3D)
+- [Flutter App Development- Create a basic Music App with Play, Pause, Stop and Forward Buttons.](https://www.linkedin.com/pulse/flutter-app-development-create-basic-music-play-pause-pushkar-kumar/?trackingId=sOS84GBKEIseKXyavcvUtw%3D%3D)
+- [Implementing EKS Cluster with different AWS Services Like EC2 , EFS, ELB and EBS.](https://www.linkedin.com/pulse/implementing-eks-cluster-different-aws-services-like-ec2-kumar/?trackingId=MtZhH00P2udZEjDJoD2d%2BQ%3D%3D)
+- [Infrastructure as a Code(IAAC) using AWS Services and TERRAFORM + GITHUB.](https://www.linkedin.com/pulse/infrastructure-codeiaac-using-aws-services-terraform-github-kumar/?trackingId=G78zuyzP3dvvA8Rp9FuY1Q%3D%3D)
+- [How Netflix is using Aws to rule the Entertainment Industry: A Case Study!](https://medium.com/@pushkarishwar/how-netflix-is-using-aws-to-rule-the-entertainment-industry-a-case-study-263492d6b593)
+- [Big Data-A Modern Day Problem (Case Study)](https://medium.com/@pushkarishwar/big-data-a-modern-day-problem-cc97349f1d3d)
+
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://codestackr.com)
 
 ---
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#259](https://github.com/florinpop17/app-ideas/pull/259) in [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas)
-2. 🎉 Merged PR [#13](https://github.com/codeSTACKr/codeSTACKr/pull/13) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-3. 💪 Opened PR [#13](https://github.com/codeSTACKr/codeSTACKr/pull/13) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-4. 🎉 Merged PR [#12](https://github.com/codeSTACKr/codeSTACKr/pull/12) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-5. 💪 Opened PR [#12](https://github.com/codeSTACKr/codeSTACKr/pull/12) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-<!--END_SECTION:activity-->
 
-</details>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
-</details>
 
 
 

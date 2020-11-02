@@ -74,6 +74,8 @@
 [![Pushkar's github stats](https://github-readme-stats.vercel.app/api?username=pushkar02-op&hide=stars&show_icons=true&theme=dark)](https://github.com/pushkar02-op/pushkar02-op)
 
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pushkar02)](https://github.com/pushkar02-op/pushkar02-op)
+
 
 [linkedin]: https://www.linkedin.com/in/pushkar-kumar2312/
 

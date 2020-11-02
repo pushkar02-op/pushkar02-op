@@ -54,6 +54,9 @@
 - [Big Data-A Modern Day Problem (Case Study)](https://medium.com/@pushkarishwar/big-data-a-modern-day-problem-cc97349f1d3d)
 
 <!-- BLOG-POST-LIST:END -->
+<!-- Markdown -->
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
 ---

@@ -55,7 +55,7 @@
 
 <!-- BLOG-POST-LIST:END -->
 
-## Random dev joke for you! (create your own by clicking here ↓)
+## Random dev joke for you! 
 <!-- Markdown -->
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)

@@ -67,6 +67,10 @@
 
 
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pushkar02-op&repo=pushkar02-op)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
 
 

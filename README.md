@@ -67,7 +67,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pushkar02-op)](https://github.com/pushkar02-op/pushkar02-op)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pushkar02-op&layout=compact)](https://github.com/pushkar02-op/pushkar02-op)
 
 
 

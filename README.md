@@ -71,7 +71,7 @@
 
 
 
-[![Pushkar's github stats](https://github-readme-stats.vercel.app/api?username=pushkar02-op&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+[![Pushkar's github stats](https://github-readme-stats.vercel.app/api?username=pushkar02-op&hide=stars&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 

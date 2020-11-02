@@ -20,7 +20,7 @@
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="http://simpleicons.org/icons/visualstudiocode.svg" />][linkedin]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][linkedin]
+[<img align="left" alt="MySQL" width="26px" src="http://simpleicons.org/icons/mysql.svg" />][linkedin]
 [<img align="left" alt="Git" width="26px" src="http://simpleicons.org/icons/git.svg" />][linkedin]
 [<img align="left" alt="GitHub" width="26px" src="http://simpleicons.org/icons/github.svg" />][linkedin]
 [<img align="left" alt="Terminal" width="26px" src="http://simpleicons.org/icons/terraform.svg" />][linkedin]

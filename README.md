@@ -74,7 +74,15 @@
 [![Pushkar's github stats](https://github-readme-stats.vercel.app/api?username=pushkar02-op&hide=stars&show_icons=true&theme=dark)](https://github.com/pushkar02-op/pushkar02-op)
 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pushkar02)](https://github.com/pushkar02-op/pushkar02-op)
+[![Pushkar's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pushkar02)](https://github.com/pushkar02-op/pushkar02-op)
+
+
+<a href="https://github.com/pushkar02-op/pushkar02-op">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushkar02-op&layout=compact" />
+</a>
+<a href="https://github.com/pushkar02-op/pushkar02-op">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=pushkar02)](https://github.com/pushkar02-op/pushkar02-op" />
+</a>
 
 
 [linkedin]: https://www.linkedin.com/in/pushkar-kumar2312/

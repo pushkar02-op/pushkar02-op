@@ -67,11 +67,11 @@
 
 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pushkar02-op&repo=pushkar02-op)](https://github.com/pushkar02-op/pushkar02-op)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pushkar02-op)](https://github.com/pushkar02-op/pushkar02-op)
 
 
 
-[![Pushkar's github stats](https://github-readme-stats.vercel.app/api?username=pushkar02-op&hide=stars&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Pushkar's github stats](https://github-readme-stats.vercel.app/api?username=pushkar02-op&hide=stars&show_icons=true&theme=dark)](https://github.com/pushkar02-op/pushkar02-op)
 
 
 

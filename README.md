@@ -15,6 +15,7 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [pushkarishwar@gmail.com](https://mail.google.com/)
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=pushkar02-op.pushkar02-op)
 <br />
 
 ### Languages and Tools:
@@ -61,7 +62,7 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
----
+
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=pushkar02-op.pushkar02-op)
 
@@ -74,7 +75,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=pushkar02" />
 </a>
 
-
+---
 
 
 

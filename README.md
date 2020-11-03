@@ -6,9 +6,9 @@
 
 - 🌱 I’m currently learning everything 
 
-<!-- ### Spotify Playing 🎧
+!-- ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b) -->
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b) --
 
 ### Connect with me:
 
@@ -64,7 +64,7 @@
 
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=pushkar02-op.pushkar02-op)
+
 
 [![Pushkar's github stats](https://github-readme-stats.vercel.app/api?username=pushkar02-op&hide=stars&show_icons=true&theme=dark)](https://github.com/pushkar02-op/pushkar02-op)
 

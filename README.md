@@ -6,11 +6,11 @@
 
 - 🌱 I’m currently learning everything 
 ---
-<
-!-- ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Pushkar Spotify Playing" width="350" />](https://open.spotify.com/user/hurhwyo6u6i4pink537xgu8k0) 
---->
+<!-- ### Spotify Playing 🎧
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Pushkar Spotify Playing" width="350" />](https://open.spotify.com/user/hurhwyo6u6i4pink537xgu8k0)> 
+---
 
 ### Connect with me:
 

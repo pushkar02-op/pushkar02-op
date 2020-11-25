@@ -10,14 +10,14 @@
 
 
 
-### Connect with me:
-
+### Connect with me: 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=pushkar02-op.pushkar02-op)
+
 <br />
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=pushkar02-op.pushkar02-op)
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="http://simpleicons.org/icons/visualstudiocode.svg" />][linkedin]

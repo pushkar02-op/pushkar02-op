@@ -20,16 +20,16 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=pushkar02-op.pushkar02-op)
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="http://simpleicons.org/icons/visualstudiocode.svg" />][linkedin]
-[<img align="left" alt="MySQL" width="26px" src="http://simpleicons.org/icons/mysql.svg" />][linkedin]
-[<img align="left" alt="Git" width="26px" src="http://simpleicons.org/icons/git.svg" />][linkedin]
-[<img align="left" alt="GitHub" width="26px" src="http://simpleicons.org/icons/github.svg" />][linkedin]
-[<img align="left" alt="Terminal" width="26px" src="http://simpleicons.org/icons/terraform.svg" />][linkedin]
-[<img align="left" alt="Flutter" width="26px" src="http://simpleicons.org/icons/flutter.svg" />][linkedin]
-[<img align="left" alt="Ansible" width="26px" src="http://simpleicons.org/icons/ansible.svg" />][linkedin]
-[<img align="left" alt="AWS" width="26px" src="http://simpleicons.org/icons/amazonaws.svg" />][linkedin]
-[<img align="left" alt="Docker" width="26px" src="http://simpleicons.org/icons/docker.svg" />][linkedin]
-[<img align="left" alt="Linux" width="26px" src="http://simpleicons.org/icons/linux.svg" />][linkedin]
+<img align="left" alt="Visual Studio Code" width="26px" src="http://simpleicons.org/icons/visualstudiocode.svg" />
+<img align="left" alt="MySQL" width="26px" src="http://simpleicons.org/icons/mysql.svg" />
+<img align="left" alt="Git" width="26px" src="http://simpleicons.org/icons/git.svg" />
+<img align="left" alt="GitHub" width="26px" src="http://simpleicons.org/icons/github.svg" />
+<img align="left" alt="Terminal" width="26px" src="http://simpleicons.org/icons/terraform.svg" />
+<img align="left" alt="Flutter" width="26px" src="http://simpleicons.org/icons/flutter.svg" />
+<img align="left" alt="Ansible" width="26px" src="http://simpleicons.org/icons/ansible.svg" />
+<img align="left" alt="AWS" width="26px" src="http://simpleicons.org/icons/amazonaws.svg" />
+<img align="left" alt="Docker" width="26px" src="http://simpleicons.org/icons/docker.svg" />
+<img align="left" alt="Linux" width="26px" src="http://simpleicons.org/icons/linux.svg" />
 <img align="left" alt="K8s" width="26px" src="http://simpleicons.org/icons/kubernetes.svg" />
 
 

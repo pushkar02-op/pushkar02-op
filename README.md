@@ -30,7 +30,7 @@
 [<img align="left" alt="AWS" width="26px" src="http://simpleicons.org/icons/amazonaws.svg" />][linkedin]
 [<img align="left" alt="Docker" width="26px" src="http://simpleicons.org/icons/docker.svg" />][linkedin]
 [<img align="left" alt="Linux" width="26px" src="http://simpleicons.org/icons/linux.svg" />][linkedin]
-[<img align="left" alt="K8s" width="26px" src="http://simpleicons.org/icons/kubernetes.svg" />]
+<img align="left" alt="K8s" width="26px" src="http://simpleicons.org/icons/kubernetes.svg" />
 
 
 

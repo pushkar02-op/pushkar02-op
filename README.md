@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning everything 
 
 -Skills include -
-    Flying below the radar, doing just enough to not to be noticed or fired 
+    Flying below the radar, doing just enough to not to be noticed or fired 😃
 
 
 
